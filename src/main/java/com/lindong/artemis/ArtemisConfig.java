@@ -1,4 +1,4 @@
-package com.example.artemis;
+package com.lindong.artemis;
 
 import org.apache.activemq.artemis.jms.client.ActiveMQConnectionFactory;
 import org.springframework.beans.factory.annotation.Value;

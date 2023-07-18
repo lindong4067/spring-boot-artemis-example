@@ -1,4 +1,4 @@
-package com.example.artemis;
+package com.lindong.artemis;
 
 import org.springframework.jms.annotation.JmsListener;
 import org.springframework.stereotype.Component;
