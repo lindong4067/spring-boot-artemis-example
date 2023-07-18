@@ -1,0 +1,14 @@
+# Artemis
+  #java -Djavax.net.ssl.keyStorePassword=mykeystorepassword -jar myapp.jar
+#spring.artemis.ssl.enabled=true
+#spring.artemis.ssl.key-store=/path/to/keystore/file
+
+spring:
+  artemis:
+    host: localhost
+    port: 61616
+    user: admin
+    password: admin
+#    ssl:
+#      enabled: true
+#      key-store: /path/to/keystore/file
